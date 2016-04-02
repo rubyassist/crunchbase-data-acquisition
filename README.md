@@ -12,4 +12,5 @@ Although I wanted basic information for all companies in CrunchBase’s database
 
 The scripts output data into comma-separated files. We then loaded these files into PostgreSQL and into R. In PostgreSQL, I could run SQL queries on the data. Using R, I could perform visualizations of the data.
 
+## Entity Relationship Diagram
 ![Alt](./dat/ERD.png "ERD")
