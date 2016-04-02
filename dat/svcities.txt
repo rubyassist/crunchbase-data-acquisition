@@ -1,0 +1,35 @@
+Campbell
+Cupertino
+Los Altos
+Los Altos Hills
+Los Gatos
+Milpitas
+Mountain View
+Palo Alto
+San Jose
+Santa Clara
+Saratoga
+Sunnyvale
+Belmont
+Burlingame
+East Palo Alto
+Emeryville
+Foster City
+Fremont
+Menlo Park
+Millbrae
+Newark
+Oakland
+Redwood City
+San Bruno
+San Carlos
+San Francisco
+San Mateo
+San Ramon 
+Santa Cruz
+Scotts Valley
+South San Francisco
+Union City
+San Carlos
+Berkeley
+Stanford
